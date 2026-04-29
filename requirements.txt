@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
+aiosmtplib
+python-multipart
+pydantic[email]
+psycopg2-binary
+python-dotenv
+scikit-learn
+xgboost
+numpy
+pandas
+pymongo
